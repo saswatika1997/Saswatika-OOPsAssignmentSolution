@@ -14,8 +14,7 @@ public class Driver {
 		System.out.println(ad.getTodaysWork());
 		System.out.println(ad.getWorkDeadline());
 		System.out.println(ad.getIsTodayAHoliday());
-		//HrDepartment hd = new HrDepartment();
-		
+
 		
 		System.out.println("       ");
 		
